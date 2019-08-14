@@ -1,0 +1,53 @@
+#box-orange {
+  
+  height: 400px;
+  width: 65%;
+  top: 6px;
+  position: relative; 
+  left: 17.5% ;
+  background-color: aliceblue;
+  
+}
+#lcontent {
+  
+  height: 400px;
+  width: 65%;
+  position: relative;  
+}
+
+#ltcontent {
+ 
+  height: 200px;
+  width: 100%;
+  position: relative;  
+}
+#lticontent {
+    
+    height: 200px;
+    width: 50%;
+    position: static;
+    
+}
+#lttxcontent {
+    
+    height: 200px;
+    width: 47%;
+    position: relative;
+    top: -200px;
+    left: 53%;
+}
+#lbcontent {
+  
+  height: 200px;
+  width: 100%;
+  position: relative;
+
+}
+#rcontent {
+    
+    height: 400px;
+    width: 35%;
+    position: relative;
+    left: 65%;
+    top: -400px;
+}
